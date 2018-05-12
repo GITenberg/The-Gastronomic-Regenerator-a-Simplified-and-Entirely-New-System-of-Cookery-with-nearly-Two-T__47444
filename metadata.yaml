@@ -1,4 +1,8 @@
 _repo: The-Gastronomic-Regenerator-a-Simplified-and-Entirely-New-System-of-Cookery-with-nearly-Two-T__47444
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47444-h/images/cover.jpg
 creator:
   author:
     agent_name: Soyer, Alexis
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41417
     wikipedia: http://en.wikipedia.org/wiki/Alexis_Soyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47444#The-Gastronomic-Regenerator-a-Simplified-and-Entirely-New-System-of-Cookery-with-nearly-Two-T_
 gutenberg_issued: '2014-11-23'
 gutenberg_type: Text
 identifiers:
